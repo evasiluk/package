@@ -1,0 +1,16 @@
+{
+    "name": "evasiluk/contactform",
+    "description": "A contact form package for laravel",
+    "authors": [
+        {
+            "name": "eugene vasiluk",
+            "email": "evasiluk@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "Evasiluk\\Contactform\\": "src/"
+        }
+    }
+}
