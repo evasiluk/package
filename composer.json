@@ -12,5 +12,12 @@
         "psr-4" : {
             "Evasiluk\\Contactform\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Evasiluk\\Contactform\\ContactFormServiceProvider"
+            ]
+        }
     }
 }
